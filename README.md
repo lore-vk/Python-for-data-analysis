@@ -1,2 +1,2 @@
-# numpy
-numpy练习
+# python
+python练习
